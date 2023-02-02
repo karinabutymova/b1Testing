@@ -1,0 +1,52 @@
+.custom-file,
+.show-file-list{
+margin: 24px 0;
+}
+
+.btn-upload{
+margin-bottom: 32px;
+}
+
+.uplode-show-files
+{
+   display: flex;
+   justify-content: space-around;
+
+}
+
+.comments{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 32px;
+}
+
+.response-line{
+   margin: 0;
+}
+
+.page-refresh{
+   display: flex;
+   justify-content: center;
+}
+.btn-refresh{
+   margin-bottom: 32px;
+}
+
+.save-data{
+   display: flex;
+   justify-content: center;
+}
+.save-data.hide{
+   display: none;
+}
+.save-data.show{
+   display: flex;
+}
+
+.hide{
+   display: none;
+} 
+
+.show{
+   display: flex;
+}
